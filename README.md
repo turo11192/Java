@@ -1,2 +1,1 @@
-# Java
-Java Programs
+Repository for my java projects :)
